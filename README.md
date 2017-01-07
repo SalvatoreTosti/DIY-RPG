@@ -4,7 +4,7 @@ _An RPG prototyping kit for Unity 5.x_
 ---
 
 ## Authors
-  _ Salvatore Tosti - @LightWorlds_ _
+  _Salvatore Tosti - @LightWorlds__
 
 ## License
-  _ MIT License _
+  _MIT License_
